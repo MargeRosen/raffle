@@ -13,7 +13,7 @@ rails s
 
 ```
 
-* This Ruby version 2.0.0 & Rails version 4.0.0
+* This Ruby version 1.9.3 & Rails version 3.2.12
 
 ## License: ##
 
